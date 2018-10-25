@@ -1,0 +1,22 @@
+.WarnaBiru {
+    color:blue;
+}
+Tebal {
+    font-style: italic;
+}
+body{
+    background : url("2.png");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-attachment: fixed;
+}
+
+a:visited{
+    color: green;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: black;
+}
